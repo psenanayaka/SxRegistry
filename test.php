@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <!--
-All Rights Reserved
 (c) Priyanga Senanayaka 
 2014
 -->
@@ -12,8 +11,10 @@ All Rights Reserved
     <body>
         <?php
         // put your code here
-        echo 'Its working fine! hooreey';
-        echo 'Modified at Github! by Janeth';
+
+        echo 'Modified at Github! by Janeth by lap';
+        
         ?>
+        sfsdfdss
     </body>
 </html>
